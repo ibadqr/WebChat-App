@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost:3306'; // Ganti dengan host database Anda
-$username = 'root'; // Ganti dengan username database Anda
-$password = 'root'; // Ganti dengan password database Anda
-$database = 'chat_app'; // Ganti dengan nama database Anda
+$host = 'sql301.infinityfree.com:3306'; // Ganti dengan host database Anda
+$username = 'if0_36788229'; // Ganti dengan username database Anda
+$password = 'hUqx2fdCqsQ7Ck2'; // Ganti dengan password database Anda
+$database = 'if0_36788229_chat_app'; // Ganti dengan nama database Anda
 
 // Membuat koneksi
 $conn = mysqli_connect($host, $username, $password, $database);
